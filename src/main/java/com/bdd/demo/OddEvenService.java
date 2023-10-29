@@ -1,4 +1,4 @@
-package com.contract.producer.demo;
+package com.bdd.demo;
 
 import org.springframework.stereotype.Service;
 

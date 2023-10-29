@@ -1,4 +1,4 @@
-package com.contract.producer.demo;
+package com.bdd.demo;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

@@ -1,3 +1,4 @@
+@examples
 Feature: Is a number Odd or Even?
   Every body wants to know if a number is Odd or Even (I'm a documentation line, Cucumber doesn't execute me)
 
